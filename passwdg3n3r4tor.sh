@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #simple password generator by Talha 
-piglet TALHA
-echo "##### Happy Hacking With  Abu Talha From Bangladesh! Thank you. ####
+figlet T4LHA
+echo "##### I'm Talha From Bangladesh! Thank you. ####
                ***************************
                     ******************
                         ###########
